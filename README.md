@@ -1,4 +1,4 @@
-# coursera_data_exercise
+# Readme.MD
 Submission for JHU Getting and Cleaning Data course by Coursera.
 
 The content of this (coursera_data_exercise) repository and its objective/purpose are underlined below
