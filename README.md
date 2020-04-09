@@ -17,8 +17,8 @@ Explains the data that was produced by the "run_analysis.R" script, its variable
 # Guide on using the script
 1. Ensure R and RStudio is installed on the computer.
 2. Initiate the session by opening "coursera_data_exercise.Rproj"
-(Optional ; Skip this part if you wish to do things automatically)
-3.  You can download the zipped folder manually by clicking this link:
+3. (Optional ; Skip this part if you wish to do things automatically)
+  You can download the zipped folder manually by clicking this link:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 4.  Unzip the folder into the directory.
 5. If you wish to skip step 3 and 4, you can open the run_analysis.R and let it do step 3 and 4 for you.
